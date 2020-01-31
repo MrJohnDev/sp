@@ -1,0 +1,34 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://psv4.userapi.com/c856420/u483768571/docs/d9/e3cffd2b2b6c/my2.ipa?extra=zZVDUnIX3sU1gZYs4xQRD99sW7xoTVh4J_XKZM987UI8kGybhVCPqOZyfERtQ0BhxU9wI5Hkq5PghXFvuO1H3BT92jvYAYwv4ELf-8oxahOTJnUOafbCSmKIlr57HlzkqNPmIkgBslFtTdPoAMXo&dl=1</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.spotify.client</string>
+<key>bundle-version</key>
+<string>0.0.0</string>
+<key>kind</key>
+<string>software</string>
+<key>subtitle</key>
+<string>下载</string>
+<key>title</key>
+<string>Spotify Fix</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
